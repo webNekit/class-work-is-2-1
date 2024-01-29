@@ -1,4 +1,4 @@
-const age = 9;
+const age = 8;
 
 if (age >= 18) {
     console.log('Вы можете работать!');
